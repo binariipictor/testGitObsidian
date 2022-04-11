@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "f958e34c2997d99a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0bc7b27885bd5a9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Codebase management/codebase 1's name.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "34fcb09bd8af2f2b"
+      },
+      {
+        "id": "6d6dc6166d0f5fd1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Codebase management/codebase 1's name.md"
+          }
+        },
+        "group": "34fcb09bd8af2f2b"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f58f664aa9f619b",
+    "type": "split",
+    "children": [
+      {
+        "id": "aadedbe4f2b110f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ace1d0fcc1af8350",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe9973476c184108",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a0bb2e3f850fcc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a44c689ee4d2ef50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9bfaf1b20b6ef1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Codebase management/codebase 1's name.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "413d020970a68906",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7a41033ae47dc6c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Codebase management/codebase 1's name.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa042774b0464810",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Codebase management/codebase 1's name.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b0bc7b27885bd5a9",
+  "lastOpenFiles": [
+    "Codebase management/codebase 1's name.md",
+    "Codebase management/codebase 3's name.md",
+    "dailynotes/22-04-Mo.md",
+    "dailynoteTemplate/Template 1.md",
+    "Codebase management/cosebase 2's name.md",
+    "Sevices/Service 1.md",
+    "Sevices/Service 3.md",
+    "Sevices/Service 2.md",
+    "Codebase management.md"
+  ]
+}
